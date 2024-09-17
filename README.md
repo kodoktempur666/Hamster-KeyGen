@@ -3,9 +3,7 @@
 1. Clone the repository or download the script.
     ```sh
     git clone https://github.com/kodoktempur666/Hamster-KeyGen.git
-    ```
 
-    ```
 2. Install the required packages:
     ```sh
     pip install -r requirements.txt
